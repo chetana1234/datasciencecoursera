@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is to create account in Github.com
+This is the information about Data Science Toolbox
